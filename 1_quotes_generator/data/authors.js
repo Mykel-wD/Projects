@@ -1,0 +1,23 @@
+const authors = [
+    "Jenna Jameson",
+    "Ron Jeremy",
+    "Sasha Grey",
+    "James Deen",
+    "Riley Reid",
+    "Asa Akira",
+    "Johnny Sins",
+    "Adriana Chechik",
+    "Manuel Ferrara",
+    "Angela White",
+    "Lexi Belle",
+    "Tori Black",
+    "Evan Stone",
+    "Christy Canyon",
+    "Stoya",
+    "Peter North",
+    "Belladonna",
+    "Rocco Siffredi",
+    "Bonnie Rotten",
+    "Katsuni",
+  ];
+module.exports = authors;
